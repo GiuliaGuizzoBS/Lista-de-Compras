@@ -1,2 +1,2 @@
-# Lista-de-Compras
-Sistema de lista de compras
+# Lista-de-Memes
+Sistema de lista
